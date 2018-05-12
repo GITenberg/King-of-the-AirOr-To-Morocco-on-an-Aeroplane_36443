@@ -18,6 +18,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36443#King-of-the-AirOr-To-Morocco-on-an-Aeroplane
 gutenberg_issued: '2011-06-16'
 gutenberg_type: Text
 identifiers:
